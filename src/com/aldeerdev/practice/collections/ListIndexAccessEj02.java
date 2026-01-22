@@ -37,7 +37,7 @@ public class ListIndexAccessEj02 {
 		
 		// 5. Mostramos la lista
 		numeros.forEach(System.out::println);
-
+		
 	}
 
 }
