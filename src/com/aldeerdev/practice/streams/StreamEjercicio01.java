@@ -6,6 +6,7 @@ public class StreamEjercicio01 {
 
 	public static void main(String[] args) {
 		/*
+		 * Ejercicio 01: Stream
 		 * Recorrrer Una lista de nombres con stream*/
 		
 		// Declaracion de una lista de nombres
