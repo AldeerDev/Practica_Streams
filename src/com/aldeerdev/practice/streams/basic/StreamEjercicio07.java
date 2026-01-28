@@ -1,4 +1,4 @@
-package com.aldeerdev.practice.streams;
+package com.aldeerdev.practice.streams.basic;
 
 import java.util.List;
 import java.util.Set;
