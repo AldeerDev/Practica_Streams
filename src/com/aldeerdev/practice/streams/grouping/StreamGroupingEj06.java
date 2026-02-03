@@ -1,7 +1,6 @@
 package com.aldeerdev.practice.streams.grouping;
 
 import java.util.List;
-import java.util.OptionalDouble;
 import java.util.stream.Collectors;
 
 import com.aldeerdev.practice.data.EmpleadosData;
